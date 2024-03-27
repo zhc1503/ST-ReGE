@@ -1,4 +1,5 @@
-## The source codes for "ST-ReGE: A Novel Spatial-Temporal Residual Graph Convolutional Network for CVD" ## 
+## Introduction ## 
+The source codes for "ST-ReGE: A Novel Spatial-Temporal Residual Graph Convolutional Network for CVD"
 The source codes only include the backbone for 300 nodes case and the way to construct graph-based ECG data.
 
 ## Paper:  ##
